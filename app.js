@@ -4,7 +4,7 @@ const port = 3000;
 
 app.get("/", (req, res) => {
 
-    res.send('check');
+    res.send('Hello Jutin and Jeep');
 
 })
 
